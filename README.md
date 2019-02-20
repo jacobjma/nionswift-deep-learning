@@ -1,5 +1,5 @@
-# nionswift-structure-recognition
-Nion Swift plugin for structure recognition in atomic scale images
+# nionswift-deep-learning
+Nion Swift plugin for structure recognition in atomic scale images using deep learning
 
 Requirements
 ------------
